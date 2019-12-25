@@ -191,6 +191,7 @@ end
 include("pretty.jl")
 include("nest.jl")
 include("print.jl")
+include("styles/yas.jl")
 
 """
     format_text(

@@ -9,6 +9,13 @@ git-tree-sha1 = "3a483b911e1eacc9b897cd45229ef5dc3a49a7f2"
 uuid = "00ebfdb7-1f24-5e51-bd34-a7502290713f"
 version = "1.1.1"
 
+[[Cassette]]
+git-tree-sha1 = "ad9d2ab6452a15840483741ebf10ffae4688cf28"
+repo-rev = "master"
+repo-url = "https://github.com/jrevels/Cassette.jl.git"
+uuid = "7057c7e9-c182-5462-911a-8362d720325c"
+version = "0.2.6"
+
 [[Distributed]]
 deps = ["Random", "Serialization", "Sockets"]
 uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
